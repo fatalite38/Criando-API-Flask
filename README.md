@@ -19,6 +19,7 @@ pip install pyngrok
 
 ## Autenticação do Ngrok
 Adicione seu token de autenticação do ngrok para configurar o ngrok:
+
 ngrok config add-authtoken 'SEU_TOKEN_DE_AUTENTICAÇÃO_NGROK'
 
 ## Notas:
